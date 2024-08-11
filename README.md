@@ -6,7 +6,7 @@
 <h3>Projects 🗂</h3>
 
 <ul>
-  <li><b>Bank App (in progress)</b></li>
+  <li><b>Bank App</b></li>
   <p>Project built using PHP with the Laravel framework, API, SQLite for database management, and Tailwind CSS for styling. This website includes registration and authorization, currency-based account creation, money transfers, investment accounts and cryptocurrency purchases.</p>
   <li><b>Articles App</b></li>
   <p>Project uses CRUD operations and follows the MVC architecture, utilizing Twig for templating and Tailwind CSS for design, SQLite is used for database management, enabling users to create and manage articles and comments. Additionally, comments and articles can be liked, enhancing user interaction.</p>
